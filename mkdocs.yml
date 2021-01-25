@@ -1,2 +1,5 @@
-site_name: My Docs
+site_name: MkReact
+nav:
+  - Home: index.md
+  - Composant: composant.md
 theme: readthedocs
